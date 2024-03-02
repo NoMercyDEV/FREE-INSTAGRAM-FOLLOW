@@ -3,8 +3,26 @@
 ###
 
 <div align="center">
-  <img height="700" src="https://cdn.discordapp.com/attachments/1207435805640097832/1207792553118670929/INSTAGRAM_SPONSSS.png?ex=65ea29f8&is=65d7b4f8&hm=d834544b3e218f0f491699f9ed5c9d2219921664c992b26318c32124dec853b8&"  />
+  <img height="500" src="https://cdn.discordapp.com/attachments/1207435805640097832/1207792553118670929/INSTAGRAM_SPONSSS.png?ex=65ea29f8&is=65d7b4f8&hm=d834544b3e218f0f491699f9ed5c9d2219921664c992b26318c32124dec853b8&"  />
 </div>
+
+###
+
+<br clear="both">
+
+<h3 align="center">DOWNLOAD</h3>
+
+###
+
+<div align="center">
+  <a href="https://github.com/NoMercyDEV/FREE-INSTAGRAM-FOLLOW/releases/tag/instagram" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/unsplash/default.svg" width="52" height="40" alt="unsplash logo"  />
+  </a>
+</div>
+
+###
+
+<p align="left"></p>
 
 ###
 
@@ -19,10 +37,6 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
-
-###
-
-<h1 align="center">DOWNLOAD:</h1>
 
 ###
 
