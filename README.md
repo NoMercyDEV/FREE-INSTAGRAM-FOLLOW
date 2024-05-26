@@ -1,9 +1,9 @@
-<h2 align="center">FREE INSTAGRAM FOLLOW BOT</h2>
+<h2 align="center">FREE INSTAGRAM FOLLOW BOT - WORK 26/05/2024</h2>
 
 ###
 
 <div align="center">
-  <img height="500" src="https://cdn.discordapp.com/attachments/1207435805640097832/1207792553118670929/INSTAGRAM_SPONSSS.png?ex=65ea29f8&is=65d7b4f8&hm=d834544b3e218f0f491699f9ed5c9d2219921664c992b26318c32124dec853b8&"  />
+  <img height="500" src="https://cdn.discordapp.com/attachments/1137505897741033526/1244215011828830278/News.png?ex=66544d07&is=6652fb87&hm=7b1166b1c3e189c6b393058b37c1f04b6f4c56ca41aa7d4bfc0f966b60af3724&"  />
 </div>
 
 ###
